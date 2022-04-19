@@ -10,7 +10,9 @@ The pipeline was build using sklearn's [Pipeline Class](https://scikit-learn.org
 - Dimensionality Reduction: the TruncatedSVD sklearn class 
 - Logistic Regression model: a model trained on the BBC Dataset. 
 
-**The training process and more details about this pipeline can be found on this [link](https://github.com/henriquelucasdf/BBC_MulticlassClassification)**
+**The training process and more details about this pipeline can be found on this repo:**
+
+[![henriquelucasdf - BBC_MulticlassClassification](https://img.shields.io/static/v1?label=henriquelucasdf&message=BBC_MulticlassClassification&color=blue&logo=github)](https://github.com/henriquelucasdf/BBC_MulticlassClassification "Go to GitHub repo")
 
 ## References
 - BBC Dataset:
@@ -18,4 +20,3 @@ The pipeline was build using sklearn's [Pipeline Class](https://scikit-learn.org
     D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.
 
     Available at this [link](http://mlg.ucd.ie/datasets/bbc.html).
-    
