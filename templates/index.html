@@ -15,7 +15,7 @@
     <div class="container">
         <h1>News Classification using ML: </h1>
         {% if result %}
-        <h5>The model classified this text as: {{result}}</h5>
+        <h5>The model classified this text as "{{result}}" with a probability of {{prob_}}.</h5>
         <a href="/">Try again</a>
         {% endif %}
         {% if result == None %}
