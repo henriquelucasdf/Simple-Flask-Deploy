@@ -14,6 +14,11 @@ The pipeline was build using sklearn's [Pipeline Class](https://scikit-learn.org
 
 [![henriquelucasdf - BBC_MulticlassClassification](https://img.shields.io/static/v1?label=henriquelucasdf&message=BBC_MulticlassClassification&color=blue&logo=github)](https://github.com/henriquelucasdf/BBC_MulticlassClassification "Go to GitHub repo")
 
+## The Inference Pipeline:
+
+## The Deploy:
+
+
 ## References
 - BBC Dataset:
   
