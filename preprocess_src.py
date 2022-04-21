@@ -115,6 +115,7 @@ class CustomTextPreprocessor(BaseEstimator, TransformerMixin):
             stop_ = set(stopwords.words(language))
         except Exception:
             # if error, download the language package
+            nltk.download('punkt')
             nltk.download(language, quiet=True)
             stop_ = set(stopwords.words(language))
 
