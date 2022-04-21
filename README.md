@@ -17,7 +17,11 @@ The pipeline was build using sklearn's [Pipeline Class](https://scikit-learn.org
 ## The Inference Pipeline:
 
 ## The Deploy:
+After the login on the Heroku CLI, we create the app with:
+`heroku apps:create bbc-classification-flask`
 
+After that, in the projects directory, how we already have a git, we just type:
+`git push heroku main`
 
 ## References
 - BBC Dataset:
